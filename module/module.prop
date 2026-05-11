@@ -1,0 +1,6 @@
+id=lenovo-tb710fu-gsi-fixes
+name=Lenovo TB710FU GSI Fixes
+version=v1.0
+versionCode=1
+author=jaimbo
+description=Injects tablet UI, fixes boot animation rotation, maps hall_irq smart cover, and injects clean hardware overlay.

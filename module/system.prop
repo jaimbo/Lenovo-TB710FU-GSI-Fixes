@@ -1,0 +1,5 @@
+# Force true tablet UI and taskbar
+ro.build.characteristics=tablet
+
+# Fix sideways GSI boot animation
+ro.bootanim.set_orientation_logical_0=ORIENTATION_90
